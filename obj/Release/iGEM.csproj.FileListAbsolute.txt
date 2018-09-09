@@ -1,0 +1,12 @@
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\bin\Release\iGEM.exe.config
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\bin\Release\iGEM.exe
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\bin\Release\iGEM.pdb
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\obj\Release\iGEM.choice.resources
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\obj\Release\iGEM.Form1.resources
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\obj\Release\iGEM.knowmore.resources
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\obj\Release\iGEM.like.resources
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\obj\Release\iGEM.Properties.Resources.resources
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\obj\Release\iGEM.csproj.GenerateResource.Cache
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\obj\Release\iGEM.exe
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\obj\Release\iGEM.pdb
+C:\Users\Pc\Documents\Visual Studio 2012\Projects\Image\iGEM\iGEM\obj\Release\iGEM.csprojResolveAssemblyReference.cache
